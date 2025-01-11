@@ -1,0 +1,20 @@
+[gd_resource type="Theme" load_steps=4 format=3 uid="uid://byobfpc6i7hac"]
+
+[ext_resource type="FontFile" path="res://assets/font_default.tres" id="1"]
+[ext_resource type="StyleBox" path="res://assets/theme/button_normal.tres" id="2"]
+[ext_resource type="StyleBox" path="res://assets/theme/button_pressed.tres" id="3"]
+
+[resource]
+default_font = ExtResource("1")
+Button/colors/font_color = Color(1, 1, 1, 1)
+Button/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
+Button/colors/font_color_hover = Color(0.941176, 0.941176, 0.941176, 1)
+Button/colors/font_color_pressed = Color(1, 1, 1, 1)
+Button/constants/hseparation = 2
+Button/fonts/font = ExtResource("1")
+Button/styles/disabled = null
+Button/styles/focus = null
+Button/styles/hover = ExtResource("2")
+Button/styles/normal = ExtResource("2")
+Button/styles/pressed = ExtResource("3")
+VBoxContainer/constants/separation = 8

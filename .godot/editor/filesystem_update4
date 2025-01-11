@@ -1,0 +1,17 @@
+res://src/Screens/MainScreen.tscn
+res://assets/ui_theme.tres
+res://src/Actors/Player.gd
+res://src/Levels/Level01.tres
+res://src/UserInterface/SceneChangeButton.tscn
+res://src/UserInterface/UserInterface.tscn
+res://src/Actors/Enemy.tscn
+res://src/Actors/Player.tscn
+res://src/Levels/Level01.tscn
+res://src/Levels/Level02.tscn
+res://src/Objects/Portal2D.tscn
+res://src/UserInterface/QuitButton.tscn
+res://src/Screens/EndScreen.tscn
+res://src/Objects/Bumper.tscn
+res://src/UserInterface/Title.tscn
+res://src/UserInterface/RetryButton.tscn
+res://src/Objects/Coin.tscn

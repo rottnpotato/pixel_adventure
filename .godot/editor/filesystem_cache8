@@ -1,0 +1,141 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1730277034
+default_env.tres::Environment::8649196225278908721::1729089652::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1728564598::0::1::::<><>::
+Green.png::CompressedTexture2D::3488924384069296672::1728461302::1728461312::1::::<><>::
+icon.png::CompressedTexture2D::2085678057597362382::1729089688::1729089688::1::::<><>::
+logos.png::CompressedTexture2D::7702255189381275520::1728564483::1728564502::1::::<><>::
+::res://addons/::1728492545
+::res://addons/virtual_joystick/::1728625634
+coin.wav::AudioStreamWAV::6143562539536861716::1728537627::1728625634::1::::<><>::
+plugin.cfg::TextFile::-1::1728492545::0::1::::<><>::
+virtual_joystick.gd::GDScript::-1::1728530609::0::1::::VirtualJoystick<>Control<>::
+virtual_joystick_icon.png::CompressedTexture2D::260911808592511340::1728492546::1728492546::1::::<><>::
+virtual_joystick_instantiator.gd::GDScript::-1::1728492546::0::1::::<>Control<>::
+virtual_joystick_plugin.gd::GDScript::-1::1728492546::0::1::::<>EditorPlugin<>::
+virtual_joystick_scene.tscn::PackedScene::8038149555967335895::1728494821::0::1::::<><>::res://addons/virtual_joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://addons/virtual_joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://addons/virtual_joystick/textures/joystick_tip_arrows.png
+::res://addons/virtual_joystick/previews/::1728492546
+CoverPreview.svg::CompressedTexture2D::7768305531076228255::1728492545::1728492546::1::::<><>::
+joystick_icon.png::CompressedTexture2D::8191686844787947679::1728492545::1728492546::1::::<><>::
+Logo.svg::CompressedTexture2D::3636690382717353116::1728492545::1728492546::1::::<><>::
+ShowcasePreview.png::CompressedTexture2D::4854394697233855098::1728492545::1728492546::1::::<><>::
+::res://addons/virtual_joystick/test/::1728492545
+player.gd::GDScript::-1::1728492545::0::1::::<>Sprite2D<>::
+test.tscn::PackedScene::3566301953465693758::1728492545::0::1::::<><>::uid://dmr0fcamx7t56::::res://addons/virtual_joystick/virtual_joystick_scene.tscn<>uid://kq1h264n0gxs::::res://icon.svg<>res://addons/virtual_joystick/test/player.gd
+::res://addons/virtual_joystick/textures/::1728492546
+joystick_base_outline.png::CompressedTexture2D::3288008411285325467::1728492545::1728492546::1::::<><>::
+joystick_tip.png::CompressedTexture2D::3132432681801126628::1728492545::1728492546::1::::<><>::
+joystick_tip_arrows.png::CompressedTexture2D::8548255698028078709::1728492546::1728492546::1::::<><>::
+::res://android/::1728495576
+::res://assets/::1729089692
+Apple.png::CompressedTexture2D::5166995577569457043::1728497314::1728497314::1::::<><>::
+background.png::CompressedTexture2D::9104398949837956738::1728432145::1728432263::1::::<><>::
+bumper.png::CompressedTexture2D::5575425828928814170::1728432145::1728432262::1::::<><>::
+Double Jump (32x32).png::CompressedTexture2D::5557159416379054906::1728436324::1728436325::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::8018785009601890940::1728436324::1728436325::1::::<><>::
+font_default.tres::FontFile::-1::1728432146::0::1::::<><>::res://assets/montserrat_extrabold.otf
+font_title.tres::FontFile::-1::1728432146::0::1::::<><>::res://assets/montserrat_extrabold.otf
+Hit (32x32).png::CompressedTexture2D::546905789466456745::1728436324::1728436325::1::::<><>::
+Hit (52x34).png::CompressedTexture2D::8681070608410923858::1728441744::1728441744::1::::<><>::
+Hit Wall (52x34).png::CompressedTexture2D::2715333641804124967::1728441744::1728441744::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::5147532810325432734::1728436324::1728436325::1::::<><>::
+Idle (52x34).png::CompressedTexture2D::447632733756756856::1728441744::1728441744::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::501530469797386254::1728436324::1728436325::1::::<><>::
+light.png::CompressedTexture2D::297719932659970755::1728432146::1728432263::1::::<><>::
+montserrat_extrabold.otf::FontFile::4407091570551067660::1728432146::1728432262::1::::<><>::
+Peaberry-Mono.otf::FontFile::1528476037593138805::1728492229::1728492229::1::::<><>::
+PeaberryMono.svg::CompressedTexture2D::4160008669437462138::1728492229::1728492229::1::::<><>::
+PeaberryMono.ttf::FontFile::2936842718106142847::1728492229::1728492229::1::::<><>::
+PeaberryMono.woff::FontFile::481821556302351963::1728492229::1728492229::1::::<><>::
+PeaberryMono.woff2::FontFile::3991991605318304013::1728492229::1728492229::1::::<><>::
+pixel-death-66829.mp3::AudioStreamMP3::6480364502867956581::1728541229::1728541249::1::::<><>::
+pixel-sound-effect-4-82881.mp3::AudioStreamMP3::7516401145649252640::1728541229::1728541249::1::::<><>::
+portal.png::CompressedTexture2D::2353405336293324763::1728432146::1728432262::1::::<><>::
+Run (32x32).png::CompressedTexture2D::3253808978886300942::1728436324::1728436325::1::::<><>::
+Run (52x34).png::CompressedTexture2D::8629730895351960692::1728441744::1728441744::1::::<><>::
+Terrain (16x16).png::CompressedTexture2D::2255004230545480908::1728447316::1728447316::1::::<><>::
+tileset.png::CompressedTexture2D::3734345033548850211::1728432146::1728432262::1::::<><>::
+tileset.tres::TileSet::4904261283462953403::1728495465::0::1::::<><>::uid://btg7d8m2rvw24::::res://assets/tileset.png<>uid://7elucj5are25::::res://assets/Terrain (16x16).png
+ui_theme.tres::Theme::4099924657885321726::1729089692::0::1::::<><>::res://assets/font_default.tres<>res://assets/theme/button_normal.tres<>res://assets/theme/button_pressed.tres
+Wall Jump (32x32).png::CompressedTexture2D::5508909574322502625::1728436324::1728436325::1::::<><>::
+::res://assets/back_assets/::1728465917
+clouds.png::CompressedTexture2D::1306481838443634507::1728465916::1728465917::1::::<><>::
+desert_a.png::CompressedTexture2D::2785118446241130310::1728465916::1728465917::1::::<><>::
+desert_b.png::CompressedTexture2D::6144921052635384893::1728465916::1728465917::1::::<><>::
+mountains_a.png::CompressedTexture2D::405559214136475399::1728465916::1728465917::1::::<><>::
+mountains_b.png::CompressedTexture2D::4810525486336046911::1728465916::1728465917::1::::<><>::
+trees.png::CompressedTexture2D::291960145129257634::1728465916::1728465917::1::::<><>::
+::res://assets/font/::1728492259
+Peaberry-Mono.otf::FontFile::5829579714074182908::1728492259::1728492259::1::::<><>::
+PeaberryMono.svg::CompressedTexture2D::2852001823888273310::1728492259::1728492259::1::::<><>::
+PeaberryMono.ttf::FontFile::7496820176906958455::1728492259::1728492259::1::::<><>::
+PeaberryMono.woff::FontFile::1460896703887137550::1728492259::1728492259::1::::<><>::
+PeaberryMono.woff2::FontFile::5576113775835077639::1728492259::1728492259::1::::<><>::
+::res://assets/menu/::1728480386
+bush.png::CompressedTexture2D::5693612364307194321::1728480386::1728480386::1::::<><>::
+clouds.png::CompressedTexture2D::146375352290019989::1728480386::1728480386::1::::<><>::
+lava.png::CompressedTexture2D::206109839091731320::1728480386::1728480386::1::::<><>::
+log_wall.png::CompressedTexture2D::8881593308976357854::1728480386::1728480386::1::::<><>::
+rock.png::CompressedTexture2D::2908637410553009380::1728480386::1728480386::1::::<><>::
+sun.png::CompressedTexture2D::6538891200525501574::1728480386::1728480386::1::::<><>::
+tree.png::CompressedTexture2D::6074765705796802475::1728480386::1728480386::1::::<><>::
+tree_b.png::CompressedTexture2D::6652672929842642151::1728480386::1728480386::1::::<><>::
+tree_c.png::CompressedTexture2D::8257080193350436646::1728480386::1728480386::1::::<><>::
+tree_trunk.png::CompressedTexture2D::1452783739125108047::1728480386::1728480386::1::::<><>::
+water_a_8frames.png::CompressedTexture2D::8955498412591755435::1728480386::1728480386::1::::<><>::
+water_b_5 frames.png::CompressedTexture2D::3624548755989379262::1728480386::1728480386::1::::<><>::
+::res://assets/sounds/::1728625633
+8-bit-wrong-2-84407.mp3::AudioStreamMP3::5222292691937565194::1728541646::1728541646::1::::<><>::
+2019-01-02_-_8_Bit_Menu_-_David_Renda_-_FesliyanStudios.com.mp3::AudioStreamMP3::962071690836508823::1728540980::1728540981::1::::<><>::
+214254-8bit-status-63.wav::AudioStreamWAV::1878840985801710780::1728543792::1728543793::1::::<><>::
+a-big-world-238961.mp3::AudioStreamMP3::8789062610504763632::1728540563::1728540564::1::::<><>::
+arcade.ogg::AudioStreamOggVorbis::4529619706324738738::1728540058::1728540058::1::::<><>::
+explosion.wav::AudioStreamWAV::4308884290057607799::1728537627::1728537628::1::::<><>::
+hurt.wav::AudioStreamWAV::8042020601759973943::1728537627::1728537628::1::::<><>::
+jump.wav::AudioStreamWAV::1434890180729539868::1728537627::1728537628::1::::<><>::
+leisure_video_game_music_level_complete.mp3::AudioStreamMP3::2647343999381460587::1728541859::1728541859::1::::<><>::
+pixel-death-66829.mp3::AudioStreamMP3::5084481654786017823::1728541271::1728541271::1::::<><>::
+pixel-sound-effect-4-82881.mp3::AudioStreamMP3::983326373971897927::1728541271::1728541271::1::::<><>::
+power_up.wav::AudioStreamWAV::4531083800976600274::1728537627::1728537628::1::::<><>::
+tap.wav::AudioStreamWAV::147825082049279150::1728537627::1728537628::1::::<><>::
+::res://assets/theme/::1728432225
+button_normal.tres::StyleBoxFlat::-1::1728432146::0::1::::<><>::
+button_pressed.tres::StyleBoxFlat::-1::1728432146::0::1::::<><>::
+::res://src/::1728432225
+::res://src/Actors/::1729089692
+Actor.gd::GDScript::-1::1728604175::0::1::::Actor<>CharacterBody2D<>::
+Enemy.gd::GDScript::-1::1728605451::0::1::::<>Actor<>::
+Enemy.tscn::PackedScene::8630754362379533771::1728630428::0::1::::<><>::res://src/Actors/Enemy.gd<>uid://dvxf72cwa34uw::::res://assets/Hit (52x34).png<>uid://gm3pfi1m7ivo::::res://assets/Idle (52x34).png<>uid://du7kn3r12ubiq::::res://assets/Run (52x34).png<>uid://cgnynrxhu0sxm::::res://assets/sounds/8-bit-wrong-2-84407.mp3
+Player.gd::GDScript::-1::1729089692::0::1::::<>Actor<>::
+Player.tscn::PackedScene::5306177163365684270::1728630428::0::1::::<><>::res://src/Actors/Player.gd<>uid://h16pt74lp2hh::::res://assets/Hit (32x32).png<>uid://cflrd4aan4ag1::::res://assets/Idle (32x32).png<>uid://he7esntdsvgo::::res://assets/Jump (32x32).png<>uid://bmmf01246tnwg::::res://assets/Run (32x32).png<>uid://dmr0fcamx7t56::::res://addons/virtual_joystick/virtual_joystick_scene.tscn<>uid://byobfpc6i7hac::::res://assets/ui_theme.tres<>uid://oalihokq8y6b::::res://assets/sounds/pixel-sound-effect-4-82881.mp3<>uid://dmtu50o36a6vb::::res://assets/sounds/hurt.wav<>uid://ceo7w1r1eywyx::::res://assets/sounds/pixel-death-66829.mp3
+::res://src/Autoload/::1728604931
+PlayerData.gd::GDScript::-1::1728604931::0::1::::<>Node<>::
+PlayerData.tscn::PackedScene::-1::1728432146::0::1::::<><>::res://src/Autoload/PlayerData.gd
+::res://src/Levels/::1729089692
+Level01.tres::TileSet::738623703824113099::1729089692::0::1::::<><>::uid://7elucj5are25::::res://assets/Terrain (16x16).png
+Level01.tscn::PackedScene::2410516864451692193::1728630429::0::1::::<><>::uid://f1prbfpr7act::::res://assets/back_assets/mountains_a.png<>res://src/Levels/newlvl1.gd<>uid://dxhqtvehmey7q::::res://assets/sounds/a-big-world-238961.mp3<>uid://b53f2140eokmu::::res://src/UserInterface/UserInterface.tscn<>uid://efosnk5cmgri::::res://assets/back_assets/trees.png<>uid://bfxeq17guto43::::res://assets/back_assets/desert_a.png<>uid://kr2a3kp2pyr8::::res://src/Levels/Level01.tres<>uid://chul7y2soacyw::::res://src/Actors/Player.tscn<>uid://b70phmlvqcuq5::::res://src/Objects/Portal2D.tscn<>uid://lcbn2p40o5aj::::res://src/Levels/Level02.tscn<>uid://crklwymm1gnew::::res://src/Objects/Coin.tscn<>uid://du72i7p4mun7x::::res://src/Actors/Enemy.tscn
+Level02.tscn::PackedScene::776291410494146657::1728630429::0::1::::<><>::uid://b53f2140eokmu::::res://src/UserInterface/UserInterface.tscn<>uid://ctsv7mpswx1b2::::res://assets/back_assets/desert_b.png<>uid://f1prbfpr7act::::res://assets/back_assets/mountains_a.png<>uid://crklwymm1gnew::::res://src/Objects/Coin.tscn<>uid://efosnk5cmgri::::res://assets/back_assets/trees.png<>uid://du72i7p4mun7x::::res://src/Actors/Enemy.tscn<>uid://kr2a3kp2pyr8::::res://src/Levels/Level01.tres<>uid://chul7y2soacyw::::res://src/Actors/Player.tscn<>uid://0p6kwh5x22ii::::res://src/Screens/EndScreen.tscn<>uid://b70phmlvqcuq5::::res://src/Objects/Portal2D.tscn<>uid://nybgekdians6::::res://assets/sounds/2019-01-02_-_8_Bit_Menu_-_David_Renda_-_FesliyanStudios.com.mp3
+LevelTemplate.tscn::PackedScene::5191190262942587349::1728497663::0::1::::<><>::uid://d2yiedlquaaww::::res://assets/background.png<>uid://b53f2140eokmu::::res://src/UserInterface/UserInterface.tscn<>uid://cb4wp4v1qumop::::res://assets/tileset.tres<>uid://chul7y2soacyw::::res://src/Actors/Player.tscn<>uid://b70phmlvqcuq5::::res://src/Objects/Portal2D.tscn
+level_01.gd::GDScript::-1::1728493718::0::1::::<>Node2D<>::
+newlvl1.gd::GDScript::-1::1728604088::0::1::::<>Node2D<>::
+::res://src/Objects/::1729089722
+Bumper.tscn::PackedScene::100589416142372245::1728630429::0::1::::<><>::uid://clo1pi3ry3pp7::::res://assets/bumper.png
+Coin.gd::GDScript::-1::1728604214::0::1::::<>Area2D<>::
+Coin.tscn::PackedScene::5987403940837966498::1728630429::0::1::::<><>::res://src/Objects/Coin.gd<>uid://cfu6wrtjj1v5d::::res://assets/Apple.png<>uid://ctr8tvryp06a7::::res://addons/virtual_joystick/coin.wav
+Portal2D.gd::GDScript::-1::1728604769::0::1::::<>Area2D<>::
+Portal2D.tscn::PackedScene::4684997027659140862::1729089722::0::1::::<><>::res://src/Objects/Portal2D.gd<>uid://8saih2ux80q6::::res://assets/portal.png<>uid://11eiboy75e3e::::res://assets/sounds/214254-8bit-status-63.wav
+::res://src/Screens/::1728630429
+EndScreen.gd::GDScript::-1::1728604605::0::1::::<>Control<>::
+EndScreen.tscn::PackedScene::1787588009698740812::1728630429::0::1::::<><>::uid://byobfpc6i7hac::::res://assets/ui_theme.tres<>res://src/Screens/EndScreen.gd<>uid://d2yiedlquaaww::::res://assets/background.png<>uid://oq444nv0e5ye::::res://src/UserInterface/Title.tscn<>uid://d480j24lbe87::::res://src/UserInterface/SceneChangeButton.tscn<>uid://dpspvjrw2kuv8::::res://src/UserInterface/QuitButton.tscn<>uid://bdynmso1lkxgd::::res://assets/sounds/leisure_video_game_music_level_complete.mp3
+MainScreen.tscn::PackedScene::7046552192608367901::1728630428::0::1::::<><>::uid://byobfpc6i7hac::::res://assets/ui_theme.tres<>res://src/Screens/parallax_layer.gd<>uid://bfxeq17guto43::::res://assets/back_assets/desert_a.png<>uid://oq444nv0e5ye::::res://src/UserInterface/Title.tscn<>uid://f1prbfpr7act::::res://assets/back_assets/mountains_a.png<>uid://d480j24lbe87::::res://src/UserInterface/SceneChangeButton.tscn<>uid://su4the0svbvv::::res://assets/back_assets/clouds.png<>uid://dpspvjrw2kuv8::::res://src/UserInterface/QuitButton.tscn<>uid://efosnk5cmgri::::res://assets/back_assets/trees.png<>uid://b5sgf7bpnodnm::::res://assets/sounds/arcade.ogg<>uid://de2rsefuq2rmd::::res://assets/font/PeaberryMono.ttf
+parallax_layer.gd::GDScript::-1::1728604539::0::1::::<>ParallaxBackground<>::
+::res://src/UserInterface/::1728630429
+QuitButton.gd::GDScript::-1::1728604512::0::1::::<>Button<>::
+QuitButton.tscn::PackedScene::8250202261794268347::1728630429::0::1::::<><>::res://src/UserInterface/QuitButton.gd
+RetryButton.gd::GDScript::-1::1728604487::0::1::::<>Button<>::
+RetryButton.tscn::PackedScene::2805839951925313187::1728630429::0::1::::<><>::res://src/UserInterface/RetryButton.gd
+SceneChangeButton.gd::GDScript::-1::1728496729::0::1::::<>Button<>::
+SceneChangeButton.tscn::PackedScene::272482307142988970::1728630428::0::1::::<><>::res://src/UserInterface/SceneChangeButton.gd
+Title.tscn::PackedScene::1017487980058235836::1728630429::0::1::::<><>::uid://byobfpc6i7hac::::res://assets/ui_theme.tres
+UserInterface.gd::GDScript::-1::1728533227::0::1::::<>Node<>::
+UserInterface.tscn::PackedScene::4550241782895235812::1728630428::0::1::::<><>::uid://byobfpc6i7hac::::res://assets/ui_theme.tres<>res://src/UserInterface/UserInterface.gd<>uid://oq444nv0e5ye::::res://src/UserInterface/Title.tscn<>uid://bf8f1k3bon7yl::::res://src/UserInterface/RetryButton.tscn<>uid://d480j24lbe87::::res://src/UserInterface/SceneChangeButton.tscn<>uid://dpspvjrw2kuv8::::res://src/UserInterface/QuitButton.tscn

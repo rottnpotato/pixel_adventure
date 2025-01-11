@@ -1,0 +1,14 @@
+AudioStreamPlayer2D
+Button
+Control
+VirtualJoystick
+CanvasLayer
+TouchScreenButton
+AnimatedSprite2D
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+TileMapLayer
+CollisionShape2D
+TileMap
+WorldEnvironment
